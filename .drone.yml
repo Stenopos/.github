@@ -28,4 +28,3 @@ steps:
         - push
       branch:
         - main
-        - ci-test
