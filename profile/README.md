@@ -1,16 +1,4 @@
-```
-          .-''''''''-.
-       .'              '.
-     .'        /\        '.
-    /         //\\         \
-   |         //  \\         |
-   |        //    \\        |
-   |       //      \\       |
-    \     //        \\     /
-     '.  //          \\  .'
-       '.              .'
-          '-.______.-'
-```
+<p align="center"><img src="assets/full-banner.png" alt="Stenopos" width="600"></p>
 
 # Stenopos
 
