@@ -23,7 +23,7 @@ say it, and where it stands.
 | **Stenopos OS** | Στενωπός | STEN-oh-pos | The narrow pass | The operating system, built to be the hardest place for an attack to get through | Designed | TBD |
 | [**Stenopos language**](https://github.com/Stenopos/Syntagma) | Στενωπός | STEN-oh-pos | The narrow pass | The programming language the platform is written in (`.sten`); released through Syntagma | In progress | [![Syntagma version](https://img.shields.io/github/v/release/Stenopos/Syntagma?include_prereleases&sort=semver&display_name=tag&label=&color=7a5a1c&style=flat-square)](https://github.com/Stenopos/Syntagma/releases) |
 | [**Syntagma**](https://github.com/Stenopos/Syntagma) | Σύνταγμα | SIN-tag-ma | A formation; an ordered body of troops | The toolchain that compiles and builds Stenopos code: compiler, standard library, `tagma` and the language server | In progress | [![Syntagma version](https://img.shields.io/github/v/release/Stenopos/Syntagma?include_prereleases&sort=semver&display_name=tag&label=&color=7a5a1c&style=flat-square)](https://github.com/Stenopos/Syntagma/releases) |
-| [**Tagma**](https://github.com/Stenopos/Syntagma) | Τάγμα | TAG-ma | A disciplined unit drawn up in formation | The build tool and dependency manager (`tagma`) | Designed | TBD |
+| [**Tagma**](https://github.com/Stenopos/Syntagma) | Τάγμα | TAG-ma | A disciplined unit drawn up in formation | The build tool and dependency manager (`tagma`); ships with Syntagma, same version | In progress | [![Syntagma version](https://img.shields.io/github/v/release/Stenopos/Syntagma?include_prereleases&sort=semver&display_name=tag&label=&color=7a5a1c&style=flat-square)](https://github.com/Stenopos/Syntagma/releases) |
 
 **The OS**
 
