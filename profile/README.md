@@ -43,11 +43,11 @@ say it, and where it stands.
 |------|-------|--------|---------|------------|--------|---------|
 | **Hoplite** | Ὁπλίτης | HOP-lite | The Spartan citizen-soldier | The command shell (`hop`) | Designed | TBD |
 | **Kopis** | Κοπίς | KOH-pis | A short, heavy Spartan blade | The terminal | Designed | TBD |
-| **Laconic** | Λακωνικός | lah-KON-ik | "Of Laconia": Spartans were famous for short, pointed speech | The text and code editor | Designed | TBD |
+| **Laconic** | Λακωνικός | lah-KON-ik | "Of Laconia": Spartans were famous for short, pointed speech | The text and code editor | Not started | TBD |
 | **Periplus** | Περίπλους | PERR-ih-plus | A voyage around the coasts, and the logbook of it | The web browser and its memory-safe engine | Designed | TBD |
-| **Keryx** | Κῆρυξ | KAIR-ix | The herald who carried messages between cities | Mail and messaging | Designed | TBD |
-| **Hemera** | Ἡμέρα | HEM-er-ah | The goddess of the day | The calendar | Designed | TBD |
-| **Agora** | Ἀγορά | AG-or-ah | The public marketplace and gathering place | The app store | Designed | TBD |
+| **Keryx** | Κῆρυξ | KAIR-ix | The herald who carried messages between cities | Mail and messaging | Not started | TBD |
+| **Hemera** | Ἡμέρα | HEM-er-ah | The goddess of the day | The calendar | Not started | TBD |
+| **Agora** | Ἀγορά | AG-or-ah | The public marketplace and gathering place | The app store | Not started | TBD |
 | **Lyra** | Λύρα | LIE-rah | The lyre, the Greek string instrument | The media player and media framework | Designed | TBD |
 
 **Devices**
